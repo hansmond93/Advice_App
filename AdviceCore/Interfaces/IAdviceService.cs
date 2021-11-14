@@ -9,5 +9,6 @@ namespace AdviceCore.Interfaces
     public interface IAdviceService
     {
         Task<GetAdviceDTO> GetAdviceAsync();
+        Task<IEnumerable<GetAdviceDTO>> GetMultipleAdviceAsync(int number);
     }
 }

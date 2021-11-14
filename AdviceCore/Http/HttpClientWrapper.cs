@@ -17,12 +17,6 @@ namespace AdviceCore.Http
 
         private HttpClient Client { get; set; }
 
-        //public Task<T> GetAsync<T>(string uri)
-        //{
-        //    return InvokeAsync<T>(
-        //       client => client.GetAsync(uri),
-        //       response => response.Content.ReadAsAsync<T>());
-        //}
 
         public async Task<T> GetAsync<T>(string uri)
         {
