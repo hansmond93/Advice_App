@@ -15,6 +15,7 @@ namespace AdviceAPI.Extensions
         public static IServiceCollection AddApplicationServices(this IServiceCollection services)
         {
             services.AddTransient<IAdviceService, AdviceService>();
+            services.AddTransient<ITranslateService, TransalateService>();
 
             services.AddScoped<IHttpClientWrapper>(config =>
             {

@@ -11,17 +11,17 @@ namespace AdviceInfrastructure.Services
     public class AdviceService : IAdviceService
     {
         private readonly IHttpClientWrapper _httpClientWrapper;
-        private readonly string uri;
+        private readonly string _uri;
 
         public AdviceService(IHttpClientWrapper httpClientWrapper, IConfiguration config)
         {
             _httpClientWrapper = httpClientWrapper;
-            uri = config.GetValue<string>("AdviceUrl");
+            _uri = config.GetValue<string>("AdviceUrl");
         }
 
         public async Task<GetAdviceDTO> GetAdviceAsync()
         {
-            var result = await _httpClientWrapper.GetAsync<GetAdviceDTO>(uri);
+            var result = await _httpClientWrapper.GetAsync<GetAdviceDTO>(_uri);
 
             return result;
         }
