@@ -7,3 +7,6 @@ C:\FreeportMetrics\AdviceApp\AdviceInfrastructure\obj\Debug\netstandard2.1\Advic
 C:\FreeportMetrics\AdviceApp\AdviceInfrastructure\obj\Debug\netstandard2.1\AdviceInfrastructure.csproj.CoreCompileInputs.cache
 C:\FreeportMetrics\AdviceApp\AdviceInfrastructure\obj\Debug\netstandard2.1\AdviceInfrastructure.dll
 C:\FreeportMetrics\AdviceApp\AdviceInfrastructure\obj\Debug\netstandard2.1\AdviceInfrastructure.pdb
+C:\FreeportMetrics\AdviceApp\AdviceInfrastructure\bin\Debug\netstandard2.1\AdviceCore.dll
+C:\FreeportMetrics\AdviceApp\AdviceInfrastructure\bin\Debug\netstandard2.1\AdviceCore.pdb
+C:\FreeportMetrics\AdviceApp\AdviceInfrastructure\obj\Debug\netstandard2.1\AdviceInfrastructure.csproj.CopyComplete

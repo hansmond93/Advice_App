@@ -18,3 +18,15 @@ C:\FreeportMetrics\AdviceApp\AdviceAPI\obj\Debug\netcoreapp3.1\AdviceAPI.RazorTa
 C:\FreeportMetrics\AdviceApp\AdviceAPI\obj\Debug\netcoreapp3.1\AdviceAPI.dll
 C:\FreeportMetrics\AdviceApp\AdviceAPI\obj\Debug\netcoreapp3.1\AdviceAPI.pdb
 C:\FreeportMetrics\AdviceApp\AdviceAPI\obj\Debug\netcoreapp3.1\AdviceAPI.genruntimeconfig.cache
+C:\FreeportMetrics\AdviceApp\AdviceAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\FreeportMetrics\AdviceApp\AdviceAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\FreeportMetrics\AdviceApp\AdviceAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\FreeportMetrics\AdviceApp\AdviceAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\FreeportMetrics\AdviceApp\AdviceAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\FreeportMetrics\AdviceApp\AdviceAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\FreeportMetrics\AdviceApp\AdviceAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\FreeportMetrics\AdviceApp\AdviceAPI\bin\Debug\netcoreapp3.1\AdviceCore.dll
+C:\FreeportMetrics\AdviceApp\AdviceAPI\bin\Debug\netcoreapp3.1\AdviceInfrastructure.dll
+C:\FreeportMetrics\AdviceApp\AdviceAPI\bin\Debug\netcoreapp3.1\AdviceCore.pdb
+C:\FreeportMetrics\AdviceApp\AdviceAPI\bin\Debug\netcoreapp3.1\AdviceInfrastructure.pdb
+C:\FreeportMetrics\AdviceApp\AdviceAPI\obj\Debug\netcoreapp3.1\AdviceAPI.csproj.CopyComplete
