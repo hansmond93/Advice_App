@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W77UdzDg2Lna5LurXpqOmBhu7M2it0G9n7/jpPyTE+MmwGQZOffgItBS1u6Oe9Hr7w12Nfxyr1TzFW65lbi5vA==",
+  "success": true,
+  "projectFilePath": "C:\\FreeportMetrics\\AdviceApp\\AdviceCore\\AdviceCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DESSEY\\.nuget\\packages\\netstandard.library.ref\\2.1.0\\netstandard.library.ref.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

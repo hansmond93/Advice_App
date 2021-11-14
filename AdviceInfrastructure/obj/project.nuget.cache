@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oP/PqriV2fLyku2AGpyz2g35yxNdVNGHY4HL0lozXWBlEuzFYWrfK6XMsOO2OPMk3DUdvb6gsZEbPup3RfWHaQ==",
+  "success": true,
+  "projectFilePath": "C:\\FreeportMetrics\\AdviceApp\\AdviceInfrastructure\\AdviceInfrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DESSEY\\.nuget\\packages\\netstandard.library.ref\\2.1.0\\netstandard.library.ref.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

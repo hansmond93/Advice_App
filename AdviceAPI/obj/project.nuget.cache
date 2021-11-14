@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QugDY3nQj2z+dhad6RHaIafzbr8zq3f1A05x+RmOg/H2t4oZDFybD9DTu7xn68FPWPhL2bTMztVQzASuqP/WEw==",
+  "success": true,
+  "projectFilePath": "C:\\FreeportMetrics\\AdviceApp\\AdviceAPI\\AdviceAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DESSEY\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\DESSEY\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

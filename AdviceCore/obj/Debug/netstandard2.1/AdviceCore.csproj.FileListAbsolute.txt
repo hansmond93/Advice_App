@@ -1,0 +1,9 @@
+C:\FreeportMetrics\AdviceApp\AdviceCore\bin\Debug\netstandard2.1\AdviceCore.deps.json
+C:\FreeportMetrics\AdviceApp\AdviceCore\bin\Debug\netstandard2.1\AdviceCore.dll
+C:\FreeportMetrics\AdviceApp\AdviceCore\bin\Debug\netstandard2.1\AdviceCore.pdb
+C:\FreeportMetrics\AdviceApp\AdviceCore\obj\Debug\netstandard2.1\AdviceCore.csprojAssemblyReference.cache
+C:\FreeportMetrics\AdviceApp\AdviceCore\obj\Debug\netstandard2.1\AdviceCore.AssemblyInfoInputs.cache
+C:\FreeportMetrics\AdviceApp\AdviceCore\obj\Debug\netstandard2.1\AdviceCore.AssemblyInfo.cs
+C:\FreeportMetrics\AdviceApp\AdviceCore\obj\Debug\netstandard2.1\AdviceCore.csproj.CoreCompileInputs.cache
+C:\FreeportMetrics\AdviceApp\AdviceCore\obj\Debug\netstandard2.1\AdviceCore.dll
+C:\FreeportMetrics\AdviceApp\AdviceCore\obj\Debug\netstandard2.1\AdviceCore.pdb
