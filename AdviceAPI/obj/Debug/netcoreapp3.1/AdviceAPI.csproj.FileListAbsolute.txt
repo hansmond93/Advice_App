@@ -30,3 +30,8 @@ C:\FreeportMetrics\AdviceApp\AdviceAPI\bin\Debug\netcoreapp3.1\AdviceInfrastruct
 C:\FreeportMetrics\AdviceApp\AdviceAPI\bin\Debug\netcoreapp3.1\AdviceCore.pdb
 C:\FreeportMetrics\AdviceApp\AdviceAPI\bin\Debug\netcoreapp3.1\AdviceInfrastructure.pdb
 C:\FreeportMetrics\AdviceApp\AdviceAPI\obj\Debug\netcoreapp3.1\AdviceAPI.csproj.CopyComplete
+C:\FreeportMetrics\AdviceApp\AdviceAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\FreeportMetrics\AdviceApp\AdviceAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\FreeportMetrics\AdviceApp\AdviceAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\FreeportMetrics\AdviceApp\AdviceAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\FreeportMetrics\AdviceApp\AdviceAPI\obj\Debug\netcoreapp3.1\AdviceAPI.MvcApplicationPartsAssemblyInfo.cs

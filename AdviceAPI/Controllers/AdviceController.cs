@@ -39,9 +39,12 @@ namespace AdviceAPI.Controllers
                 if(advices != null)
                 {
                     var translatedAdvices = await _translateService.TranslateMultipleAdvice(advices);
-                    translatedAdvices.OrderBy(tA => tA.Id);
+                    if(translatedAdvices != null)
+                    {
+                        var orderedAdvice = translatedAdvices.OrderBy(tA => tA.Id);
+                        return Ok(new { orderedAdvice });
+                    }
 
-                    return Ok(new { translatedAdvices });
                 }
                 return StatusCode(500);
 
