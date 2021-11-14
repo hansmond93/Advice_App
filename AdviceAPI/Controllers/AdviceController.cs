@@ -51,7 +51,7 @@ namespace AdviceAPI.Controllers
             }
             else
             {
-                return Ok(new { error = "enter a number betwwen 5 and 20" });
+                return Ok(new { error = "enter a number between 5 and 20" });
             }
         }
 
